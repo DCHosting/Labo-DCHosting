@@ -14,4 +14,4 @@ IDE - `Codelobster IDE`
 
 # INFORMATIONS
 
-- certain code fonctionnent avec whmcs [WHMCS](https://www.whmcs.com/).
+- certain code fonctionnent avec [WHMCS](https://www.whmcs.com/).
